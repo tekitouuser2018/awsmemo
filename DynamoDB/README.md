@@ -8,10 +8,6 @@ https://aws.amazon.com/jp/dynamodb/features/
 https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/Introduction.html
 
 
-
-### 他のDBとの相違
----
-
 ### デメリット
 ---
 1. ベンダーロックイン
@@ -24,6 +20,9 @@ https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/Introduct
 ---
 1. streamデータを扱うのに適している
 2. カラム変更が多く発生する場合
+3. 低レイテンシ要求
+4. 高アクセス
+...など
 
 - RTB のユーザープロファイルストアと広告ターゲティング
 - ユーザーイベント、クリックストリーム、インプレッションデータストア

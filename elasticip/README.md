@@ -2,7 +2,8 @@
 
 https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
 
-- AWSでは通常インスタンスのパブリックIPは自動割り当てとなるが、ElasticIPを割り当てすることによって静的なパブリックIPを設定できる。
+- AWSでは通常インスタンスのIPv4パブリックIPは自動割り当てとなるが、ElasticIPを割り当てすることによって静的なIPv4パブリックIPを設定できる。
+- 現在、IPv6 に対する Elastic IP アドレスはサポートされていません。
 
 ### 料金
 

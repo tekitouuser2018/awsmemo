@@ -13,3 +13,10 @@ https://docs.aws.amazon.com/ja_jp/vpc/latest/userguide/VPC_Subnets.html
 5. ルートテーブルを作成する。
 6. ルートテーブルにインターネットゲートウェイへのルートを登録する。
 7. ルートテーブルにサブネットを関連づける。
+
+
+## 料金
+
+https://blog.serverworks.co.jp/2020/08/05/193707
+
+https://dev.classmethod.jp/articles/reduce-unnecessary-costs-for-nat-gateway/
